@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/palmira-desktop/static/css/main.06284445.css",
+    "main.js": "/palmira-desktop/static/js/main.c43c4413.js",
+    "static/js/787.0a59acd4.chunk.js": "/palmira-desktop/static/js/787.0a59acd4.chunk.js",
+    "static/media/loginImg.png": "/palmira-desktop/static/media/loginImg.485a46e1e2a809c9badd.png",
+    "index.html": "/palmira-desktop/index.html",
+    "main.06284445.css.map": "/palmira-desktop/static/css/main.06284445.css.map",
+    "main.c43c4413.js.map": "/palmira-desktop/static/js/main.c43c4413.js.map",
+    "787.0a59acd4.chunk.js.map": "/palmira-desktop/static/js/787.0a59acd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06284445.css",
+    "static/js/main.c43c4413.js"
+  ]
+}
